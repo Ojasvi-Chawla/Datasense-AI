@@ -168,17 +168,17 @@ DataSense AI combines rule-based analysis with Gemini 3 Flash Preview to generat
 
 The insight engine can identify:
 
--📈 Trends
+📈 Trends
 
--⚠️ Anomalies
+⚠️ Anomalies
 
--🔥 Important patterns
+🔥 Important patterns
 
--📊 Significant variations
+📊 Significant variations
 
--💡 Opportunities
+💡 Opportunities
 
--🚨 Potential risks
+🚨 Potential risks
 
 The hybrid approach allows the platform to perform direct analytical checks while using the LLM to generate a natural-language interpretation of the findings.
 
@@ -196,9 +196,9 @@ Instead of manually searching through tables, users can ask questions such as:
 
 The chatbot uses a hybrid response system:
 
-.Rule-based logic for direct factual/statistical queries
+Rule-based logic for direct factual/statistical queries
 
-.Gemini 3 Flash Preview for complex and open-ended questions
+- Gemini 3 Flash Preview for complex and open-ended questions
 
 .Dataset-aware context for more relevant responses
 
