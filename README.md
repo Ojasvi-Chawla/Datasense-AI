@@ -47,3 +47,130 @@ Turn raw data into meaningful insights with minimal technical effort.
 - Validity
 - Timeliness
 - Integrity
+
+# Data Cleaning
+
+Clean your dataset through an interactive interface without writing code.
+
+-Handle missing values using
+-Mean
+-Median
+-Mode
+-KNN Imputer
+-Remove duplicate rows
+-Correct data types
+-Column-level cleaning controls
+-Download the cleaned dataset as CSV
+
+# Outlier Detection
+
+Detect unusual observations using multiple statistical and machine-learning techniques.
+
+-Detection Methods
+-IQR (Interquartile Range)
+-Z-Score
+-Isolation Forest
+-Treatment Options
+-Remove outliers
+-Cap/Winsorize outliers
+-Replace with Median
+
+Outliers can also be visualized using box plots and scatter plots.
+
+# Exploratory Data Analysis
+
+Automatically explore the structure and statistical characteristics of your dataset.
+
+Includes:
+
+-Descriptive statistics
+-Distribution analysis
+-Histograms
+-KDE plots
+-Correlation analysis
+-Pearson correlation heatmap
+-Categorical frequency analysis
+-Missing-value visualization
+
+# Interactive Visualizations
+
+Create interactive charts without writing Python code.
+
+Supports 10+ Plotly chart types, including:
+
+-Bar Chart
+-Scatter Plot
+-Line Chart
+-Histogram
+-Box Plot
+-Pie Chart
+-Heatmap
+-Area Chart
+-Violin Plot
+-Bubble Chart
+
+Users can select columns, grouping options, and visualization settings interactively.
+
+# Automated Dashboard
+
+Generate an analytics dashboard with one click.
+
+The dashboard includes:
+
+-KPI cards
+-Key metrics
+-Automatically selected charts
+-Heatmaps
+-Dataset-level summaries
+-Quick navigation across analysis modules
+
+The objective is to provide a quick overview of the most important information in a dataset.
+
+# AI Insights
+
+DataSense AI combines rule-based analysis with Gemini 3 Flash Preview to generate meaningful insights from the dataset.
+
+The insight engine can identify:
+
+-📈 Trends
+-⚠️ Anomalies
+-🔥 Important patterns
+-📊 Significant variations
+-💡 Opportunities
+-🚨 Potential risks
+
+The hybrid approach allows the platform to perform direct analytical checks while using the LLM to generate a natural-language interpretation of the findings.
+
+# AI Data Chatbot
+
+Interact with your dataset using natural language.
+
+Instead of manually searching through tables, users can ask questions such as:
+
+"What is the average sales value?"
+
+"Which category has the highest revenue?"
+
+"What are the major trends in this dataset?"
+
+The chatbot uses a hybrid response system:
+
+.Rule-based logic for direct factual/statistical queries
+.Gemini 3 Flash Preview for complex and open-ended questions
+.Dataset-aware context for more relevant responses
+.Conversation history within the session
+
+# AI-Powered PDF Report
+
+Generate a professional data analysis report automatically.
+
+The report can include:
+
+-Executive Summary
+-Dataset Overview
+-Key Findings
+-Visualizations
+-Conclusions
+-Recommendations
+
+The report is generated using Gemini 3 Flash Preview via Gemini API and exported as a formatted PDF using ReportLab.
