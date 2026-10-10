@@ -275,5 +275,135 @@ AI Chatbot
 
 Professional PDF Report
 
+# Environment Variables
+
+- Variable = GEMINI_API_KEY
+
+The API key is required for:
+
+AI Insights
+
+AI Chatbot
+
+AI-powered Report Generation
+
+Core analysis features such as cleaning, EDA, visualization, and outlier detection can operate without the LLM functionality.
+
+# Main Dependencies
+
+streamlit
+
+pandas
+
+numpy
+
+plotly
+
+seaborn
+
+matplotlib
+
+scikit-learn
+
+scipy
+
+google-generativeai
+
+reportlab
+
+openpyxl
+
+python-dotenv
+
+Make sure the package names and versions match your actual requirements.txt before publishing.
+
+# Project Background
+
+DataSense AI was developed as my BCA Major Project at:
+
+Institute of Information Technology & Management (IITM)
+Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU)
+
+The project was created to combine concepts from:
+
+Data Analysis
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+Data Visualization
+
+Machine Learning
+
+Generative AI
+
+Natural Language Interaction
+
+Software Development
+
+It allowed me to build an end-to-end application rather than working on individual analysis notebooks or isolated models.
+
+# Future Improvements
+
+Potential areas for future development include:
+
+🔮 Predictive analytics and forecasting
+
+📊 More advanced dashboard customization
+
+🗄️ Database connectivity
+
+☁️ Cloud deployment
+
+👥 Multi-user support
+
+📤 Additional export formats
+
+🤖 More advanced AI-assisted analysis
+
+🔗 Integration with external data sources
+
+ # Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Fork the repository
+
+Create a feature branch
+
+- git checkout -b feature/AmazingFeature
+
+Commit your changes
+
+- git commit -m "Add AmazingFeature"
+
+Push the branch
+
+- git push origin feature/AmazingFeature
+
+Open a Pull Request
+
+# License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
+
+# Author
+
+Ojasvi Chawla
+
+BCA — Computer Science & Engineering
+
+IITM, Janakpuri, New Delhi
+
+Affiliated with GGSIPU
+
+# Support
+
+If you found DataSense AI interesting or useful, consider giving the repository a ⭐ star on GitHub.
+
+Your feedback and suggestions are always welcome!
 
 
