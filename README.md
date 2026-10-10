@@ -246,24 +246,33 @@ Ask questions through the AI Chatbot.
 
 Generate and download the professional PDF report.
 
-Complete Workflow
+- Complete Workflow
 
 Upload Dataset
       ↓
+      
+
 Data Quality Assessment
       ↓
+
 Data Cleaning
       ↓
+
 EDA & Visualization
       ↓
+
 Outlier Detection
       ↓
+
 Automated Dashboard
       ↓
+
 AI Insights
       ↓
+
 AI Chatbot
       ↓
+
 Professional PDF Report
 
 
