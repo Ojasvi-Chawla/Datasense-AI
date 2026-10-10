@@ -223,3 +223,28 @@ The report can include:
 -Recommendations
 
 The report is generated using Gemini 3 Flash Preview via Gemini API and exported as a formatted PDF using ReportLab.
+
+# How to Use
+
+Launch DataSense AI.
+
+Upload a CSV, Excel, or JSON dataset.
+
+Review the dataset preview and Data Quality Score.
+
+Clean the dataset if required.
+
+Explore the data using EDA and Visualizations.
+
+Detect and treat outliers.
+
+Generate the automated Dashboard.
+
+Explore AI Insights.
+
+Ask questions through the AI Chatbot.
+
+Generate and download the professional PDF report.
+
+
+
