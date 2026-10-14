@@ -2,7 +2,7 @@ import google.generativeai as genai
 
 # Configure API Key
 genai.configure(
-    api_key="AIzaSyCW_QoCOfjnmJAoFMuf-ZpbPyepEAiwsmw"
+    api_key="Your_Api_Key"
 )
 
 # Use the 'latest' alias to ensure you are always on the current Gemini 3 engine
